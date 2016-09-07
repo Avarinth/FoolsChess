@@ -1,0 +1,75 @@
+F:\projects\csharp\Schachuebung2\Schachuebung2\bin\Debug\Schachuebung2.exe.config
+F:\projects\csharp\Schachuebung2\Schachuebung2\bin\Debug\Schachuebung2.exe
+F:\projects\csharp\Schachuebung2\Schachuebung2\bin\Debug\Schachuebung2.pdb
+F:\projects\csharp\Schachuebung2\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+F:\projects\csharp\Schachuebung2\Schachuebung2\obj\Debug\Schachuebung2.exe
+F:\projects\csharp\Schachuebung2\Schachuebung2\obj\Debug\Schachuebung2.pdb
+C:\c sharp projekte\Schachuebung2\Schachuebung2\bin\Debug\Schachuebung2.exe.config
+C:\c sharp projekte\Schachuebung2\Schachuebung2\obj\Debug\Schachuebung2.exe
+C:\c sharp projekte\Schachuebung2\Schachuebung2\obj\Debug\Schachuebung2.pdb
+C:\c sharp projekte\Schachuebung2\Schachuebung2\bin\Debug\Schachuebung2.exe
+C:\c sharp projekte\Schachuebung2\Schachuebung2\bin\Debug\Schachuebung2.pdb
+C:\c sharp projekte\Schachuebung2\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+F:\projects\Narrenschach\Schachuebung4\Schachuebung2\bin\Debug\Schachuebung2.exe.config
+F:\projects\Narrenschach\Schachuebung4\Schachuebung2\obj\Debug\Schachuebung2.exe
+F:\projects\Narrenschach\Schachuebung4\Schachuebung2\obj\Debug\Schachuebung2.pdb
+F:\projects\Narrenschach\Schachuebung4\Schachuebung2\bin\Debug\Schachuebung2.exe
+F:\projects\Narrenschach\Schachuebung4\Schachuebung2\bin\Debug\Schachuebung2.pdb
+F:\projects\Narrenschach\Schachuebung4\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+F:\projects\Narrenschach\Narrenschach01\Schachuebung2\bin\Debug\Narrenschach01.exe.config
+F:\projects\Narrenschach\Narrenschach01\Schachuebung2\bin\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\Narrenschach01\Schachuebung2\bin\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\Narrenschach01\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+F:\projects\Narrenschach\Narrenschach01\Schachuebung2\obj\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\Narrenschach01\Schachuebung2\obj\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\Narrenschach_ProofOfConcept\Schachuebung2\bin\Debug\Narrenschach01.exe.config
+F:\projects\Narrenschach\Narrenschach_ProofOfConcept\Schachuebung2\obj\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\Narrenschach_ProofOfConcept\Schachuebung2\obj\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\Narrenschach_ProofOfConcept\Schachuebung2\bin\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\Narrenschach_ProofOfConcept\Schachuebung2\bin\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\Narrenschach_ProofOfConcept\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\Schachuebung2\bin\Debug\Narrenschach01.exe.config
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\Schachuebung2\obj\Debug\Narrenschach01.exe
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\Schachuebung2\obj\Debug\Narrenschach01.pdb
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\Schachuebung2\bin\Debug\Narrenschach01.exe
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\Schachuebung2\bin\Debug\Narrenschach01.pdb
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\aktuell\Schachuebung2\bin\Debug\Narrenschach01.exe.config
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\aktuell\Schachuebung2\obj\Debug\Narrenschach01.exe
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\aktuell\Schachuebung2\obj\Debug\Narrenschach01.pdb
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\aktuell\Schachuebung2\bin\Debug\Narrenschach01.exe
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\aktuell\Schachuebung2\bin\Debug\Narrenschach01.pdb
+C:\Users\tn.R51INTRAIN4.002\Desktop\Narrenschach\aktuell\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+E:\C Sharp\Narrenschach\Update\NarrenschachNEU\Schachuebung2\bin\Debug\Narrenschach01.exe.config
+E:\C Sharp\Narrenschach\Update\NarrenschachNEU\Schachuebung2\obj\Debug\Narrenschach01.exe
+E:\C Sharp\Narrenschach\Update\NarrenschachNEU\Schachuebung2\obj\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\NarrenschachNEU\Schachuebung2\bin\Debug\Narrenschach01.exe.config
+F:\projects\Narrenschach\NarrenschachNEU\Schachuebung2\obj\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\NarrenschachNEU\Schachuebung2\obj\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\NarrenschachNEU\Schachuebung2\bin\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\NarrenschachNEU\Schachuebung2\bin\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\NarrenschachNEU\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+E:\C Sharp\Narrenschach\Aktuell\Schachuebung2\bin\Debug\Narrenschach01.exe.config
+E:\C Sharp\Narrenschach\Aktuell\Schachuebung2\obj\Debug\Narrenschach01.exe
+E:\C Sharp\Narrenschach\Aktuell\Schachuebung2\obj\Debug\Narrenschach01.pdb
+E:\C Sharp\Narrenschach\Aktuell\Schachuebung2\bin\Debug\Narrenschach01.exe
+E:\C Sharp\Narrenschach\Aktuell\Schachuebung2\bin\Debug\Narrenschach01.pdb
+E:\C Sharp\Narrenschach\Aktuell\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+F:\projects\Narrenschach\Narrenschachv013\Schachuebung2\bin\Debug\Narrenschach01.exe.config
+F:\projects\Narrenschach\Narrenschachv013\Schachuebung2\obj\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\Narrenschachv013\Schachuebung2\obj\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\Narrenschachv013\Schachuebung2\bin\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\Narrenschachv013\Schachuebung2\bin\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\Narrenschachv013\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+F:\projects\Narrenschach\FoolsChess\Schachuebung2\bin\Debug\Narrenschach01.exe.config
+F:\projects\Narrenschach\FoolsChess\Schachuebung2\obj\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\FoolsChess\Schachuebung2\obj\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\FoolsChess\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
+F:\projects\Narrenschach\FoolsChess\Schachuebung2\bin\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\FoolsChess\Schachuebung2\bin\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\FoolsChessv14\Schachuebung2\bin\Debug\Narrenschach01.exe.config
+F:\projects\Narrenschach\FoolsChessv14\Schachuebung2\obj\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\FoolsChessv14\Schachuebung2\obj\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\FoolsChessv14\Schachuebung2\bin\Debug\Narrenschach01.exe
+F:\projects\Narrenschach\FoolsChessv14\Schachuebung2\bin\Debug\Narrenschach01.pdb
+F:\projects\Narrenschach\FoolsChessv14\Schachuebung2\obj\Debug\Schachuebung2.csprojResolveAssemblyReference.cache
